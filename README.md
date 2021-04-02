@@ -1,1 +1,1 @@
-# nvidia_stocks_prediction
+# Nvidia stocks prediction
