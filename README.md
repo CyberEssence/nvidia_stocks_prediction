@@ -1,1 +1,1 @@
-# Nvidia stocks prediction
+# Предсказание цены акций Nvidia с помощью модели LSTM
